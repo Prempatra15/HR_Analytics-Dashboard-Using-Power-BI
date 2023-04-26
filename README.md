@@ -45,7 +45,7 @@ It has charts showing the distribution of employees and attrition rate by gender
 
 ## DASHBOARD:
 
-[HR Dashboard ]()
+[HR Dashboard ](https://github.com/Prempatra15/Power-BI/blob/main/HR_Analytics%20Dashboard.png)
     
 
 ### DASHBOARD OVERVIEW:

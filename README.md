@@ -1,4 +1,4 @@
-# HR_Analytics-Dashboard-Using-Power BI
+# HR_Analytics
 
 ## Links:
 Lets Connect 
